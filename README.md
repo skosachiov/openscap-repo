@@ -16,6 +16,6 @@ A small python script allows you to scan the deb package repository for vulnerab
 
 ## links
 
-wget https://cve.mitre.org/data/downloads/allitems.xml.gz
+https://cve.mitre.org/data/downloads/allitems.xml.gz
 
 https://nvd.nist.gov/developers/vulnerabilities
