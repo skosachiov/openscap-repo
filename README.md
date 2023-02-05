@@ -12,6 +12,8 @@ A small python script allows you to scan the deb package repository for vulnerab
 
 ## run
 
+`./openscap-repo.py buster debian-cve-all.json http://ftp.debian.org/debian/dists/buster/main/binary-amd64/Packages.gz`
+
 `./openscap-repo.py buster debian-cve-all.json /var/cache/apt-mirror`
 
 ## links
